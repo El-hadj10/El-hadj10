@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0820,50:1a0a40,100:2d0a6e&height=240&section=header&text=El-hadj%20Ousmane&fontSize=54&fontColor=c8a84b&animation=fadeIn&fontAlignY=36&desc=Chasseur%20Onirique%20%C2%B7%20Full-Stack%20%26%20Cybersecurity&descAlignY=58&descSize=18&descColor=8888cc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0820,50:1a0a40,100:2d0a6e&height=220&section=header&text=El-hadj%20Ousmane&fontSize=56&fontColor=c8a84b" width="100%" />
 </p>
 
 <p align="center">
