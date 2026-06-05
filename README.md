@@ -21,19 +21,30 @@
 
 ## ✦ Qui suis-je ?
 
-```python
-class ChasseOnirique:
-		nom         = "El-hadj Ousmane"
-		alias       = "Chasseur Onirique"
-		stack       = ["Python", "TypeScript", "React", "Node.js", "FastAPI", "Flask"]
-		domaines    = ["Full-Stack Dev", "Cybersecurity", "AI / MCP", "OSINT", "Spiritualité & Tech"]
-		outils      = ["Tor", "Privoxy", "Dorking", "Canvas API", "Web Audio API", "MCP SDK"]
-		philosophie = {
-				"Lumière" : "Construire avec clarté — architecture propre, code lisible",
-				"Ombre"   : "Explorer les profondeurs — sécu, réseau, anonymat, ésotérisme",
-				"Ordre"   : "Structurer l'invisible — systèmes robustes & maintenables",
-		}
-```
+**Nom** : El-hadj Ousmane  
+**Alias** : Chasseur Onirique
+
+**Stack** : Python, TypeScript, React, Node.js, FastAPI, Flask
+
+**Domaines** :
+- Full-Stack Dev
+- Cybersecurity
+- AI / MCP
+- OSINT
+- Spiritualité & Tech
+
+**Outils** :
+- Tor
+- Privoxy
+- Dorking
+- Canvas API
+- Web Audio API
+- MCP SDK
+
+**Philosophie** :
+- **Lumière** : Construire avec clarté, architecture propre et code lisible.
+- **Ombre** : Explorer les profondeurs, sécu, réseau, anonymat, ésotérisme.
+- **Ordre** : Structurer l'invisible, systèmes robustes et maintenables.
 
 ---
 
