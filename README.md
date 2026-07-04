@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0820,50:1a0a40,100:2d0a6e&height=220&section=header&text=El-hadj%20Ousmane&fontSize=56&fontColor=c8a84b" width="100%" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0820,50:1a0a40,100:2d0a6e&height=220&section=header&text=NOUR&fontSize=56&fontColor=c8a84b" width="100%" />
 </p>
 
 <p align="center">
@@ -167,17 +167,7 @@
 	</tr>
 </table>
 
-<details>
-<summary><b>🔒 Projets privés en cours</b></summary>
-<br/>
 
-| Projet | Stack | Description |
-|--------|-------|-------------|
-| **LUMA.STORE** | Next.js 14 · FastAPI · PostgreSQL · Docker | Plateforme e-commerce IA — 6 agents autonomes · eBay · Zalando · AliExpress · Amazon PA-API |
-| **AI_Nour** | Python · Claude API | Projet IA personnel — en développement actif |
-| **E-constaline** | JavaScript | Projet web — privé |
-
-</details>
 
 ---
 
