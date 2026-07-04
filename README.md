@@ -21,7 +21,7 @@
 
 ## ✦ Qui suis-je ?
 
-**Nom** : El-hadj Ousmane  
+**Nom** : NOUR  
 **Alias** : Chasseur Onirique
 
 **Stack** : Python, TypeScript, React, Node.js, FastAPI, Flask
