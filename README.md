@@ -174,8 +174,8 @@
 ## 📊 Stats
 
 <p align="center">
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=El-hadj10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0820&title_color=c8a84b&icon_color=8888cc&text_color=e9d5ff" height="165" />
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=El-hadj10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0820&title_color=c8a84b&text_color=e9d5ff" height="165" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=El-hadj10&theme=tokyonight" height="165" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=El-hadj10&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
